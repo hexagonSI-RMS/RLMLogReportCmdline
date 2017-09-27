@@ -1,0 +1,2 @@
+#define CLCR_RES_BUILD_VERSION 19,0,0,124 
+ 
